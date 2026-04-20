@@ -21,10 +21,9 @@ population from Cali, Valle del Cauca, Colombia. The study evaluates upper, lowe
 and general extraction predictions using a dataset of 500 patients and employs 
 interpretability methods including SHAP values and modified partial dependence plots.
 
----
-
 ## Repository Structure
 
+```
 DentalExtraction/
 │
 ├── data/
@@ -39,8 +38,7 @@ DentalExtraction/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Models Evaluated
 
