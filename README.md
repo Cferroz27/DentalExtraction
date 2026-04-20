@@ -34,7 +34,7 @@ DentalExtraction/
 │   ├── node_gam_kan/      # Node-GAM and KAN model scripts
 │   └── partial_dependence_plots/  # Code for partial dependence and SHAP plots
 │
-├── docs/                  # Additional documentation
+│
 ├── .gitignore
 ├── requirements.txt
 └── README.md
